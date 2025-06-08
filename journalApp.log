@@ -1,3 +1,0 @@
-24-06-12 19:25:27.509 [http-nio-8080-exec-7] ERROR c.e.JournalApp.Service.UserService - error occured: ram 
-24-06-12 19:25:27.512 [http-nio-8080-exec-7] INFO  c.e.JournalApp.Service.UserService - hahaha 
-24-06-12 19:25:27.513 [http-nio-8080-exec-7] DEBUG c.e.JournalApp.Service.UserService - debug 
